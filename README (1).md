@@ -12,8 +12,8 @@ An Artificial-intellegince based system that aims to substitute referees. The sy
 
 ## 1- Promo
 Here's the overview of whole project.
-[![Project Promo](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)](https://drive.google.com/file/d/13Gwu_blwv6Rg4fSApJ3uoaPEzcymAsu3/view?usp=sharing)
-
+[![Project Promo](https://github.com/AmrRagab0/AI-Football-Referee/blob/master/Project%20Logo+play.png)]([https://drive.google.com/file/d/13Gwu_blwv6Rg4fSApJ3uoaPEzcymAsu3/view?usp=sharing)
+](https://drive.google.com/file/d/1p2JCKvZrW0qrIiQ0ONdKs0fYWiibafRv/view?usp=sharing)
 ## 2- Features 
 ### Action Recognition 
 - the model can detect actions such as foul, goal, corners as if it was the referee of the match. The model achieves acceptable accuracy of 72% based on our quick tests.
